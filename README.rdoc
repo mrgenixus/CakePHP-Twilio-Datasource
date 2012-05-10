@@ -22,7 +22,7 @@
 
 == Aknowledgements
 
-This is based on the work provided by Aaron Infidel, originally at: 
+This is based on the work provided by Aaron Reisman, originally at: 
 
     https://github.com/aaroninfidel/CakePHP-Twilio-Datasource
 
